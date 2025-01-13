@@ -1,0 +1,15 @@
+input{
+    border: none;
+    border-bottom: solid black 2px;
+    text-align: center;
+    display: block;
+    margin: 50px;
+}
+
+textarea{
+    border: none;
+    border-bottom: solid black 2px;
+    text-align: center;
+    display: block;
+    margin: 50px;
+}
